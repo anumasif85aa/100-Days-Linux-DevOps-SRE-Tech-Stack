@@ -1,6 +1,6 @@
 # Welcome to NIT Academy - Day 3
-Monday May 3rd, 2026
-
+```
+Day-3: Monday 11th May, 2026
 ---
 
 # Table of Contents
