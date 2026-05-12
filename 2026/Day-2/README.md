@@ -1,9 +1,6 @@
 # Welcome to NIT Academy - Day 2
-## Day 1 and 2 have the same Tasks!
-## Same as Day-1 Content
-~~~
-Day-2: Sunday 10th May, 2026
-~~~
+
+> Day-2: Sunday 10th May, 2026
 
 ## Table of Contents
 
