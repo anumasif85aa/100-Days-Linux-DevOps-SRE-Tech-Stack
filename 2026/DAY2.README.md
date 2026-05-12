@@ -1,4 +1,4 @@
-# Welcome to NIT Academy - Day 2
+# Welcome to NIT Academy - Day 3
 
 ---
 
